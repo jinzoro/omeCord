@@ -1,0 +1,2 @@
+# omeCord
+Discord omegle bot
