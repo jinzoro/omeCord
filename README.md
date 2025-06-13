@@ -26,8 +26,8 @@ A Python Discord bot that pairs users randomly (or by gender preference) in ephe
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/discord-omegle-bot.git
-   cd discord-omegle-bot
+   git clone https://github.com/yourusername/omeCord.git
+   cd omeCord
    ```
 
 2. **Install Dependencies**
@@ -89,7 +89,7 @@ roles:
 ## Project Structure
 
 ```
-discord-omegle-bot/
+omeCord/
 ├── bot.py
 ├── config.yaml
 ├── requirements.txt
