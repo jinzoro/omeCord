@@ -1,0 +1,7 @@
+token: "YOUR_DISCORD_BOT_TOKEN"
+prefix: "!"
+guild_id: YOUR_GUILD_ID  # optional for guild-specific slash commands
+roles:
+  male: MALE_ROLE_ID
+  female: FEMALE_ROLE_ID
+  random: null  # no role required
